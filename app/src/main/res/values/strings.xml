@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">My Toddler App</string>
+
+    <string name="Mango">
+        <br>
+           A mango is the fruit of a tree that grows in warm parts of the world.
+            Mangoes may be round, oval, kidney-shaped, or heart-shaped. Their smooth,
+            thin skin may be green, red, yellow, purple, or a combination of these colors.
+            Their juicy flesh is yellow-orange. They have one large pit, or seed, inside.
+        </br>
+    </string>
+
+    <string name="Strawberry">
+        <br>
+            Strawberries are red, heart-shaped fruits. They are eaten fresh, often with cream.
+            They are also used as a filling for pastries, pies, and cakes.
+            Strawberries are rich in vitamin C, and they also contain iron and other minerals.
+        </br>
+    </string>
+
+    <string name="Apple">
+        <br>
+            Apples are one of the world’s most widely grown fruits. People have eaten them since
+            ancient times.There are thousands of varieties of apples. They grow on trees that
+            belong to the same scientific family as roses.
+        </br>
+    </string>
+
+    <string name="Banana">
+        <br>
+            Bananas are one of the most important and popular foods in the world.
+            They are a flavorful fruit that is full of vitamins.
+            They can be found in stores throughout the year.
+        </br>
+    </string>
+
+
+
+    <string name="cat">
+        <br>
+            The domestic cat, or house cat, is a small mammal that has lived
+            among people for thousands of years. People have kept cats as pets,
+            used them as hunters, and even worshipped them as gods. Domestic
+            cats belong to the same animal family as the lion, tiger, jaguar,
+            leopard, puma, and cheetah. The scientific name of the domestic
+            cat is Felis catus.
+        </br>
+    </string>
+
+    <string name="dog">
+        <br>
+            The dog is one of the most popular animals in the world.
+            It was one of the first animals to be domesticated, or
+            trained for use by humans. The dog’s scientific name is
+            Canis familiaris. It is related to the coyote, wolves,
+            foxes, and jackals.
+        </br>
+    </string>
+
+    <string name="giraffe">
+        <br>
+        The giraffe is the tallest living animal. It can reach a height of
+            more than 18 feet (5.5 meters). Giraffes live on the plains of
+            eastern Africa. Giraffes have a short body, but their legs and neck are very long.
+            The coat is light brown with reddish brown spots. Many giraffes have two short horns
+            between the ears. Giraffes have large nostrils and a good sense of smell.
+            Giraffes are plant eaters. They can reach leaves at the top of trees. But they
+            do not eat grass. It is very hard for them to reach the ground because the
+            neck is stiff. To drink, a giraffe must spread its legs far apart to reach down.
+        </br>
+    </string>
+
+    <string name="rabbit">
+        <br>
+            Rabbits are mammals of the order Lagomorpha. There are about fifty different
+            species of rabbits and hares. The order Lagomorpha is made of rabbits,
+            pikas and hares. Rabbits can be found in many parts of the world. They
+            live in families and eat vegetables and hay. In the wild, rabbits live
+            in burrows, that they dig themselves. A group of rabbits living together
+            in a burrow is called a warren. Rabbits are famous for hopping and eating c
+            arrots.
+        </br>
+    </string>
+
+    <string name="green">
+        <br>
+            Green, the color of life, renewal, nature, and energy,
+            is associated with meanings of growth, harmony, freshness,
+            safety, fertility, and environment.
+        </br>
+    </string>
+
+    <string name="orange">
+        <br>
+            Any of a group of colors that are between red and yellow in hue.
+            Orange is about midway between red and yellow in hue.
+
+        </br>
+    </string>
+
+    <string name="violet">
+        <br>
+            Violet is the sixth color of the rainbow--it is the color on the inner edge of the
+            rainbow. Violet is the color between blue and purple. The name of the color comes from
+            the violet, which is a small flower grown in most parts of the world.
+        </br>
+    </string>
+
+    <string name="yellow">
+        <br>
+            Yellow, the color of sunshine, hope, and happiness, has conflicting associations.
+            On one hand yellow stands for freshness, happiness, positivity,
+            clarity, energy, optimism, enlightenment, remembrance, intellect,
+            honor, loyalty, and joy.
+        </br>
+    </string>
+
+    <string name="red">
+        <br>
+            Red is the color that is on the outside edge of the rainbow. It is one
+            of the three primary colors, along with blue and yellow. Red light has
+            a wavelength between 630-740 nanometers. Red is the color of some apples and
+            mostly, raspberries. Red is the color of some blood and the occasional cherry.
+            It is sometimes used to mark things that are wrong, important or dangerous.
+            Red is also commonly used as a warning to stop.
+        </br>
+    </string>
+    <string name="letters">LETTERS</string>
+    <string name="my_toddler_app">My Toddler App</string>
+    <string name="learn_with_mee">learn with mee</string>
+    <string name="jpg_bc_1">jpg_bc_1</string>
+    <string name="jpg_bg_1">jpg_bg_1</string>
+
+</resources>
